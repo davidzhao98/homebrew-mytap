@@ -7,7 +7,7 @@ class CerberusCli < Formula
 
   resource "additional_files" do
     url "https://github.com/Nike-Inc/cerberus-cli/archive/v0.8.1.tar.gz"
-    sha256 "c8ae0234600021fa4c60a2a9be7fe8c149315dd32f8b452f9a078d651a1398b9"
+    sha256 "06a9b13580a332c38bf365137ad15af8494e4dd988b9209a13901e50017cff2e"
   end
 
   option "with-completion"
